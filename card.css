@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.scratchcard{
+    background-color: black;
+}
+header{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+header h3{
+    padding-top: 2rem;
+    color: white;
+
+}
+.card{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    border-radius: 5px;
+    background-color:#E0F3ED;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    /* margin-left: 36rem; */
+    text-align: center;
+
+}
+#main{
+    display: flex;
+    justify-content: center;
+}
+.bcard h3{
+    padding-top: 1rem;
+    padding-left: 64px;
+
+}
+.bcard h4{
+    color:  #25e2a6;
+}
+.percent{
+    color:  #25e2a6;
+}
+.bcard p{
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+.redeem{
+    padding-top: 3rem;
+    display: flex;
+    justify-content: center;
+}
+.now{
+    border-radius: 1rem;
+    padding: 9px, 39px, 9px, 39px;
+    gap: 8px;
+    color: #25e2a6;
+    background-color: black;
+    border-color:  #25e2a6;
+    width: 334px;
+    height: 25px;
+}
+.terms{
+    display: flex;
+    justify-content: center;
+
+}
+.terms h3{
+    padding-top: 2rem;
+    color: white;
+}
+.terms ul li{
+    padding-top: 1rem;
+    color: white;
+}
+.canvas{
+    position: absolute;
+    left: 37rem;
+    width: 28rem;
+    height: 23rem;
+}
